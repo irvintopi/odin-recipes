@@ -2,5 +2,12 @@
  
     font-family: 'Courier New', Courier, monospace;
     background-color: brown;
-    font-size: 5cm;
+}
+
+.recipe {
+
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
 }
